@@ -5,6 +5,10 @@ The home of the simDetector, simDetectorNoIOC, and ADCSimDetector for the
 [areaDetector](http://cars.uchicago.edu/software/epics/areaDetector.html) 
 software.  It contains this example driver and and example IOC directory.
 
+
+**NOTE:** This repository is obsolete.  It has been replaced by the
+ADSimDetector, ADCSimDetector, and pvaDriver repositories.
+
 Additional information:
 * [Documentation for simDetector](http://cars.uchicago.edu/software/epics/simDetectorDoc.html).
 * [Documentation for ADCSimDetector](http://cars.uchicago.edu/software/epics/ADCSimDetectorDoc.html).

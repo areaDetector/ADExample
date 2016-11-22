@@ -23,6 +23,10 @@ files respectively, in the configure/ directory of the appropriate release of th
 Release Notes
 =============
 
+**NOTE:** This repository is obsolete.  It has been replaced by the
+ADSimDetector, ADCSimDetector, and pvaDriver repositories.  R2-2 will be the last release
+of this repository.
+
 R2-2 (October 28, 2016)
 ========================
 * Created a new driver in ADExample/exampleApp/ADCSimDetectorSrc.
